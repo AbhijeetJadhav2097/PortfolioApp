@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  margin : auto;
+  width : 800px;
+  border : 1px solid #eee;
+  background-color: white;
+  padding : 0px 50px;
 }
 
 .main-section{
