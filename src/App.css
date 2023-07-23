@@ -3,6 +3,7 @@
   margin : auto;
   width : 800px;
   border : 1px solid #eee;
+  border-radius: 20px;
   background-color: white;
   padding : 0px 50px;
 }
