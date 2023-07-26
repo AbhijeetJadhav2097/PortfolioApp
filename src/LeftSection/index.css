@@ -1,10 +1,12 @@
 .LeftSection {
     text-align: left;
+   padding : 0 20px;
+   border-right: 1px solid #ccc;
 }
 
 .section-title{
     font-size: 1.5em;
-    margin: 0;
+    margin-bottom: 20px;
 }
 
 .section-sub-title{
@@ -13,6 +15,6 @@
 }
 
 
-.section-sub-title, .year{
+  .year{
     font-size: 0.8em;
 }
